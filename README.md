@@ -1,10 +1,10 @@
-👋 Hi, I’m @ALI-RAZA75, a WordPress developer with experience in Python/Flask and JavaScript.
+👋 Hi, I’m @ALI-RAZA75, a Front-end developer with experience in React JS, JavaScript, Jquery, WordPress, Squarespace, Python/Flask.
 
 👀 I’m interested in web development, open-source projects, and staying up-to-date with the latest tech trends.
 
-🌱 I’m currently learning new web development techniques and exploring ways to improve user experiences.
+🌱 I’m learning new web development techniques and exploring ways to improve user experiences.
 
-💞️ I’m looking to collaborate on exciting web development projects that challenge my skills and expand my knowledge.
+💞️ I want to collaborate on exciting web development projects that challenge my skills and expand my knowledge.
 
 📫 How to reach me:
    - GitHub: @ALI-RAZA75
