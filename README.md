@@ -1,4 +1,4 @@
-👋 Hi, I’m @ALI-RAZA75, a Front-end developer with experience in React JS, JavaScript, Jquery, WordPress, Squarespace, Python/Flask.
+👋 Hi, I’m @ALI-RAZA75, a Full Stack developer with experience in React JS, JavaScript, PHP, Jquery, WordPress, Squarespace, Python/Flask.
 
 👀 I’m interested in web development, open-source projects, and staying up-to-date with the latest tech trends.
 
