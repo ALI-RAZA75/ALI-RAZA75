@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @ALI-RAZA75
 
-### Full Stack Developer | React JS • JavaScript • PHP • WordPress
+### Full Stack Developer | Next JS • React JS • JavaScript • PHP • WordPress • postgreSQL
 
 👀 I'm interested in web development, open-source projects, and staying up-to-date with the latest tech trends.
 
